@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`graphic.vue matches spanpshot 1`] = `[Function]`;
+
+exports[`graphic.vue renders props.msg when passed 1`] = `[Function]`;
